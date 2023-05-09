@@ -1,0 +1,17 @@
+.todoForm {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 30px;
+}
+
+.todoInput {
+	width: 100%;
+	height: 50px;
+	background-color:#d3f8ff;
+	color: #0c5b66;
+}
+
+.add-todo-button {
+	margin-left: 20px;
+}

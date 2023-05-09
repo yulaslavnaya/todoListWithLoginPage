@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Nihira",
+      "password": "admin",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "country": "usa",
+      "address": "",
+      "gender": "female"
+    },
+    {
+      "id": "ntuser",
+      "name": "Fullname",
+      "password": "ntuser",
+      "email": "email@email.com",
+      "phone": "56778889989",
+      "country": "singapore",
+      "address": "address1\naddrees2",
+      "gender": "male"
+    },
+    {
+      "id": "yula",
+      "name": "Yulia",
+      "password": "admin",
+      "email": "juliasl@gmail.com",
+      "phone": "",
+      "country": "india",
+      "address": "",
+      "gender": "female"
+    }
+  ],
+  "todos": [
+    {
+      "content": "погулять с собакой",
+      "isComplited": false,
+      "id": "09587b6b-1e70-4ccf-9e00-07037e0b6779"
+    },
+    {
+      "content": "купить молоко",
+      "isComplited": false,
+      "id": "ac7a4025-aad8-4715-a987-bd60246f65ef"
+    }
+  ]
+}
